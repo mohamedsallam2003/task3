@@ -1,0 +1,43 @@
+.parent{
+   background-color: hsl(0, 0%, 100%);
+   text-align: center; 
+   width: 335px;
+   margin: auto;
+   margin-top: 100px;
+   border-radius: 15px;
+   height: 531px; 
+   
+}
+
+body{
+    background-color: hsl(212, 45%, 89%);
+    width: 1440px;
+}
+
+.img{
+width: 302px;
+margin: 16px;
+border-radius: 10px;  
+
+}
+
+p{
+    font-size: 15px;
+   
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+
+h2{
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+
+
+    
+
